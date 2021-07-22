@@ -1,0 +1,59 @@
+#header{
+    text-align: center;
+    background-image: url("C:/Users/julia/OneDrive/Área de Trabalho/Landing/images/logo.png");
+    background-position-x: 50%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 150px;
+    color: #00a235;
+    text-shadow: 1px 1px 5px black;
+  }
+
+body{
+    background-color: rgb(240, 240, 240);
+    color: rgb(129, 129, 129);
+    font-family: 'Lato';
+    margin: 0px;
+    
+    
+  }
+  #header h1 {
+    font-family:;
+    color: #00a235;
+    font-weight: bold;
+    font-size: 80px;
+  }
+  h2 {
+    font-family: 'Lato';
+    color: #000;
+    font-weight: lighter;
+    font-size: 30px;
+  }
+  #header p {
+    font-family: Courier;
+    color: pink;
+    font-weight: lighter;
+    font-size: 20px;
+  }
+   a {
+    color: #00a235;
+    font-size: 20px;
+  }
+ a:hover {
+    text-decoration: none;
+    color: purple;
+  }
+ 
+  #footer{
+  background-color: black;
+  color: white;
+  padding: 50px;
+  }
+
+  #footer a {
+    color: lightgrey;
+    font-size: 15px;
+  }
+  #footer a:hover {
+    color: white;
+  }
